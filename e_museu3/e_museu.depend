@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1698697373 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+
+1698586359 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698586216 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\funcoes.h
+
+1698443184 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1698437738 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\santos_dumont.h
+
+1698443184 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698443184 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\arte_moderna.h
+
+1698443709 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698443709 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\paris.h
+
+1698444149 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698444149 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\guerra_fria.h
+

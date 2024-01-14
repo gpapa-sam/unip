@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="e_museu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/e_museu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/e_museu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Santos_Dumont.txt" />
+		<Unit filename="arte_moderna.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arte_moderna.h" />
+		<Unit filename="arte_moderna.txt" />
+		<Unit filename="condicoes_visita.txt" />
+		<Unit filename="funcoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes.h" />
+		<Unit filename="guerra_fria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="guerra_fria.h" />
+		<Unit filename="guerra_fria.txt" />
+		<Unit filename="ingresso.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="paris.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="paris.h" />
+		<Unit filename="paris.txt" />
+		<Unit filename="santos_dumont.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="santos_dumont.h" />
+		<Unit filename="textos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="textos.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
