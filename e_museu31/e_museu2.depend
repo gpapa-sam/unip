@@ -1,0 +1,392 @@
+# depslib dependency file v1.0
+1698443184 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698443184 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\arte_moderna.h
+
+1698750471 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\funcoes.h
+
+1698444149 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698443709 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\paris.h
+
+1698586359 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698437738 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\santos_dumont.h
+
+1698444149 c:\users\23yj\documents\cursos\program c\code blocks\e_museu\guerra_fria.h
+
+1698443709 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698443184 source:c:\users\23yj\documents\cursos\program c\code blocks\e_museu\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1699114471 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698843925 c:\users\marce\onedrive\documentos\ads\pim\e_museu2\arte_moderna.h
+
+1699291351 c:\users\marce\onedrive\documentos\ads\pim\e_museu2\funcoes.h
+
+1698843925 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698843925 c:\users\marce\onedrive\documentos\ads\pim\e_museu2\paris.h
+
+1698843925 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698843925 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1698843925 c:\users\marce\onedrive\documentos\ads\pim\e_museu2\santos_dumont.h
+
+1699272743 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+
+1699291848 source:c:\users\marce\onedrive\documentos\ads\pim\e_museu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698843925 c:\users\marce\onedrive\documentos\ads\pim\e_museu2\guerra_fria.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\arte_moderna.h
+
+1699803304 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\funcoes.h
+
+1699784298 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\paris.h
+
+1699784298 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\santos_dumont.h
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\guerra_fria.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1699785499 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+	"textos.h"
+
+1699710171 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\textos.h
+
+1699800110 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu21\textos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\arte_moderna.h
+
+1700238325 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\funcoes.h
+
+1699784298 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\paris.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\santos_dumont.h
+
+1700215059 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\textos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+
+1700240587 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\guerra_fria.h
+
+1700241153 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+	"textos.h"
+
+1700215059 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu22\textos.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\arte_moderna.h
+
+1700687204 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\funcoes.h
+
+1699784298 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\paris.h
+
+1700735190 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"santos_dumont.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\santos_dumont.h
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\guerra_fria.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1700215059 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\textos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+
+1700687204 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+	"textos.h"
+
+1700215059 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu23\textos.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\arte_moderna.c
+	<stdio.h>
+	<stdlib.h>
+	"arte_moderna.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\arte_moderna.h
+
+1700941276 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\funcoes.h
+
+1700945929 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	<locale.h>
+	"funcoes.h"
+	"textos.h"
+
+1700941276 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\textos.h
+
+1699784298 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\guerra_fria.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\paris.h
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\paris.c
+	<stdio.h>
+	<stdlib.h>
+	"paris.h"
+	"funcoes.h"
+
+1699784463 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\santos_dumont.c
+	<stdio.h>
+	<stdlib.h>
+	"santos_dumont.h"
+	"funcoes.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\santos_dumont.h
+
+1700941276 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\textos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+
+1700941276 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	<locale.h>
+	"funcoes.h"
+	"arte_moderna.h"
+	"paris.h"
+	"guerra_fria.h"
+
+1698829524 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu24\guerra_fria.h
+
+1701109877 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu3\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	<locale.h>
+	"funcoes.h"
+	"textos.h"
+
+1701167616 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu3\funcoes.h
+
+1700941276 c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu3\textos.h
+
+1701030698 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu3\textos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	"funcoes.h"
+
+1701204386 source:c:\users\23yj\documents\analise desenvolvimento sistemas\pim\e_museu3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<Windows.h>
+	<locale.h>
+	"funcoes.h"
+	"textos.h"
+
